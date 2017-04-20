@@ -1,0 +1,35 @@
+{
+    "count": 2,
+    "next": null,
+    "previous": null,
+    "results": [
+                {
+                "id": 1,
+                "StartupName": "Sugeek.net: The guide to become the ultimate super geek",
+                "StartupDescription": "Technical Blog and More!",
+                "StartupVideoPresentation": null,
+                "StartupTags": "Startup,Website,Blog,Etc",
+                "StartupProductDescription": "Ours is a website that thrives to provide the latest trends in technology",
+                "StartupStage": "Venture Capital",
+                "StartupInboundInvestors": "company",
+                "StartupContactNumber": 7087652572,
+                "LinkType": "Website",
+                "LinkUrl": "http://www.sugeek.net/",
+                "user": 4
+                },
+                {
+                "id": 2,
+                "StartupName": "startup2",
+                "StartupDescription": "some competitor",
+                "StartupVideoPresentation": "http://192.168.1.82:8001/static/media/small_g7Umsxr.mp4",
+                "StartupTags": "Startup,hello,Blog",
+                "StartupProductDescription": "test",
+                "StartupStage": "Angel",
+                "StartupInboundInvestors": "Mr. John Doe",
+                "StartupContactNumber": 7087652572,
+                "LinkType": "Website",
+                "LinkUrl": "http://android.com/",
+                "user": 5
+                }
+                ]
+}
